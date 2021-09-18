@@ -1,15 +1,2 @@
 # SolSig
 
-![image](https://user-images.githubusercontent.com/90071728/132077055-086e798d-785d-40bb-86cf-faff245f0928.png)
-![image](https://user-images.githubusercontent.com/90071728/132076329-bee8c54c-fc8e-44bd-b93e-3d1f7bc4ccab.png)
-![image](https://user-images.githubusercontent.com/90071728/132076315-eb9dfefc-6f36-4850-a03b-f92dbda2a6dd.png)
-![image](https://user-images.githubusercontent.com/90071728/132076361-3a6d0146-f5ed-4263-83ad-c0058bcfd012.png)
-![image](https://user-images.githubusercontent.com/90071728/132076401-ef86b666-eeb3-4f6d-9807-29462e0bcd61.png)
-![image](https://user-images.githubusercontent.com/90071728/132076436-37f07f22-07e6-4160-9420-22e048b549e8.png)
-![image](https://user-images.githubusercontent.com/90071728/132076448-e57998fe-4c62-4902-a995-b6de2c2bdbd1.png)
-![image](https://user-images.githubusercontent.com/90071728/132076517-ce0883f8-ff94-4de8-8a75-ae31fc4965b3.png)
-![image](https://user-images.githubusercontent.com/90071728/132076726-8945ba9e-3e90-4585-a07b-b9e6daf9eeb4.png)
-![image](https://user-images.githubusercontent.com/90071728/132076765-d5a6e802-52f8-4c1d-b979-659ffdbf694c.png)
-![image](https://user-images.githubusercontent.com/90071728/132076793-38f9c71f-6065-4b81-9af3-a715bfafa565.png)
-![image](https://user-images.githubusercontent.com/90071728/132076821-c5a595c4-ffb7-422e-9db8-43a280056be9.png)
-![image](https://user-images.githubusercontent.com/90071728/132077114-8ad6d0fb-14c8-4f13-9dff-994d7f388e1d.png)
