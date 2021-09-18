@@ -1,2 +1,2 @@
-# SolSig
+# Sigs
 
